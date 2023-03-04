@@ -1,0 +1,6 @@
+celery==5.2.7
+Django==4.1.7
+django-stubs==1.15.0
+django-stubs-ext==0.7.0
+flower==1.2.0
+redis==4.5.1
